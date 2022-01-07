@@ -1,0 +1,10 @@
+
+public class ImpostoDerrenda {
+     public static void main(String[] args) {
+		 
+    	 double salario = 3300.0;
+    	 int valor = (int) salario;
+    	 System.out.println(valor);
+    			 
+	}
+}

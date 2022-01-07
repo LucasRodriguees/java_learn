@@ -1,0 +1,7 @@
+
+public class TestaVariaveis {
+	
+   public static void maid(String[] args) {
+      System.out.println("ola novo teste");
+   } 
+}

@@ -1,0 +1,9 @@
+
+public class TestaLaco3 {
+	 public static void main (String[] args) {
+	        for (int A = 3;A < 100; A++) {
+	        	if(A % 3 == 0) {
+	        }
+	    }
+	 }
+	 }
